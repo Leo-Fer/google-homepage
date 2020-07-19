@@ -1,0 +1,77 @@
+body {
+    font-family: 'Zilla Slab', serif;
+}
+
+#main {
+    width:500px;
+    height:300px;
+    margin:auto;
+    text-align:center;
+    padding-top:165px;
+}
+
+#barra-busqueda {
+    width:80%; 
+    height:40px;
+    border-radius:80px;
+    padding-left:25px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.botton-busqueda {
+    padding:12px;
+    border:none;
+    margin-bottom:20px;
+    border-radius:5px;
+}
+
+#foot-busqueda {
+    font-size:12px;
+}
+
+#navbar {
+    display:flex;
+    justify-content: flex-end;
+    font-size:15px;
+}
+
+.navlink {
+    text-decoration: none;
+    color:black;
+    padding:10px;
+}
+
+#boton-nav {
+    background-color:#3351ff;
+    color:white;
+    border-radius:5px;
+}
+
+#final {
+    display:flex;
+    justify-content: center;
+    width:100%;
+    background-color: #f2f1f0;
+    position : absolute;
+    bottom : 0;
+}
+
+#tres {
+    width:50%;
+    display:flex;
+    justify-content:flex-end;
+}
+
+#cuatro {
+    width:50%;
+    display:flex;
+    justify-content: flex-start;  
+}
+
+#footer-link {
+    text-decoration:none;
+    color:black;
+    padding:10px;
+    font-family: 'Zilla Slab', serif;
+}
